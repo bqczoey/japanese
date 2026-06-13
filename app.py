@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 from sudachipy import dictionary
 import os
-import sys
-import streamlit as st
 
 tokenizer = dictionary.Dictionary().create()
 
