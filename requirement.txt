@@ -1,4 +1,4 @@
 streamlit
 pandas
 SudachiPy
-SudachiDict-core
+SudachiDict-small
